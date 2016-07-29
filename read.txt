@@ -1,0 +1,23 @@
+包说明
+app     -所有顶级Activity,Fragment的父类BaseActivity、BaseFragment
+
+Config  -常量、API的配置文件
+
+Model   -实体类
+
+Utils   -工具类
+
+Widget  -可复用的控件
+
+Service -服务类
+
+ZZNETBuy     -采购
+
+ZZNETCost    -成本
+
+ZZNETProject -工程
+
+ZZNETProgress-进度
+
+ZZNETFinance -财务
+
